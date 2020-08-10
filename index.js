@@ -15,7 +15,7 @@ function myFunction() {
         })
     }
     catch(e){
-      document.write('<h1>Error</h1>');
+      document.write('<h1>User not found</h1>');
     }
   }
 
